@@ -46,7 +46,6 @@ function getInfo(split_name){
         processData: false, 
         beforeSend: null,
         success: function(data){
-            console.log(data);
             addSummary(data)
         },
         error: function (request, status, error) {
