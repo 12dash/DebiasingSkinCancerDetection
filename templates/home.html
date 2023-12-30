@@ -1,0 +1,17 @@
+{% extends "base.html" %} {%block title%}Home{% endblock %} {% block content %}
+<h4>Summary</h4>
+<table class="table table-striped table-dark" id="summaryTable" style="text-align: center;">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">File Name</th>
+      <th scope="col">Total #</th>
+      <th scope="col">Completed #</th>
+    </tr>
+  </thead>
+  <tbody id="tableBody"></tbody>
+</table>
+<br />
+<h4>Choose the split</h4>
+<br />
+<div class="choice" id="choice"></div>
+{% endblock%}
