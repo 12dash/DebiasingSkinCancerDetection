@@ -7,7 +7,7 @@ function submitForm(event){
     var dark_corner = document.getElementById("dark_corner").checked
     var hair = document.getElementById("hair").checked
     var gel_border = document.getElementById("gel_border").checked
-    var gel_bubble = document.getElementById("gel_bubble").checked
+    var bubble = document.getElementById("bubble").checked
     var ruler = document.getElementById("ruler").checked
     var ink = document.getElementById("ink").checked
     var patches = document.getElementById("patches").checked
@@ -16,7 +16,7 @@ function submitForm(event){
     formData.append("dark_corner", dark_corner);
     formData.append("hair", hair);
     formData.append("gel_border", gel_border);
-    formData.append("gel_bubble", gel_bubble);
+    formData.append("bubble", bubble);
     formData.append("ruler", ruler);
     formData.append("ink", ink);
     formData.append("patches", patches);

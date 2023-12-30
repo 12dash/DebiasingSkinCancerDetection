@@ -58,7 +58,7 @@ def save_info(split_name):
         'dark_corner' : request.form['dark_corner'],
         'hair' : request.form['hair'],
         'gel_border' : request.form['gel_border'],
-        'gel_bubble' : request.form['gel_bubble'],
+        'bubble' : request.form['bubble'],
         'ruler' : request.form['ruler'],
         'ink' : request.form['ink'],
         'patches' : request.form['patches'],
