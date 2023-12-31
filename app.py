@@ -27,15 +27,15 @@ def getImage(split_name):
     file_name = split_name+'.csv'
     df = pd.read_csv(f'annotations/raw_splits/{file_name}')
     if file_name in os.listdir('annotations/annotate/'):
-        print('present')
         annotate = pd.read_csv(f"annotations/annotate/{file_name}")
         imgs_ = list(set(df['image_id']).difference(set(annotate['image_id'])))
-        print(len(imgs_))
     else:
         imgs_ = list(df['image_id'])
-    img_id = imgs_[0]
-    row = df[df['image_id'] == img_id]
-    if len(row) > 0:
+    
+    row = None
+    if len(imgs_) > 0 :  
+        img_id = imgs_[0]
+        row = df[df['image_id'] == img_id]
         row = row.to_dict(orient='records')[0]
         row['image_id'] = row["image_id"]+".jpg"
     else:
@@ -83,12 +83,18 @@ def get_image(image_name):
 def annotate(split_name):
     data = get_split_info(split_name)
     img_info = getImage(split_name)
-    return render_template('annotate.html', 
-                           fileName=data['splitName'], 
-                           numCompleted=data['numCompleted'],
-                           numTotal = data['numTotal'], 
-                           imgInfo= img_info
-                           )    
+    if img_info is not None:
+        return render_template('annotate.html', 
+                            fileName=data['splitName'], 
+                            numCompleted=data['numCompleted'],
+                            numTotal = data['numTotal'], 
+                            imgInfo= img_info
+                            )    
+    else:
+        return render_template('completed.html', 
+                            fileName=data['splitName'], 
+                            numCompleted=data['numCompleted'],
+                            numTotal = data['numTotal'])    
 
 if __name__=="__main__":
     app.run(debug=True, )
