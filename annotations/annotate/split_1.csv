@@ -1,0 +1,703 @@
+age,dataset,dx,dx_type,image_id,lesion_id,localization,sex,dark_corner,hair,gel_border,bubble,ruler,ink,patches
+35.0,vidir_molemax,nv,follow_up,ISIC_0027223,HAM_0004772,back,female,False,False,False,False,False,False,False
+20.0,rosendahl,nv,histo,ISIC_0030253,HAM_0005670,upper extremity,female,False,False,False,False,False,False,False
+75.0,vidir_modern,bkl,histo,ISIC_0033736,HAM_0007625,lower extremity,male,False,False,False,False,False,False,False
+60.0,rosendahl,bcc,histo,ISIC_0026988,HAM_0004937,neck,male,False,False,False,False,True,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0025845,HAM_0005868,abdomen,male,False,True,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0029079,HAM_0002888,trunk,male,True,True,False,False,True,False,False
+50.0,vidir_molemax,mel,histo,ISIC_0026954,HAM_0003194,trunk,male,False,False,False,False,False,False,False
+75.0,vidir_modern,bkl,histo,ISIC_0026532,HAM_0000959,face,female,True,True,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0029691,HAM_0002880,trunk,female,False,False,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0025961,HAM_0007290,lower extremity,male,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0032339,HAM_0007072,trunk,female,False,False,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0027112,HAM_0004886,back,female,True,False,False,False,True,False,False
+70.0,rosendahl,bkl,histo,ISIC_0032230,HAM_0000744,face,male,False,True,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0033689,HAM_0005995,lower extremity,female,True,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0028289,HAM_0002748,lower extremity,female,False,False,False,False,False,False,False
+55.0,vidir_modern,nv,histo,ISIC_0026502,HAM_0005107,back,female,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0024892,HAM_0001419,lower extremity,female,False,False,False,False,False,False,False
+65.0,vidir_modern,bkl,consensus,ISIC_0030123,HAM_0006652,chest,female,True,True,False,False,False,False,False
+70.0,rosendahl,mel,histo,ISIC_0029172,HAM_0000396,lower extremity,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,bkl,consensus,ISIC_0030226,HAM_0000069,trunk,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0026208,HAM_0007201,lower extremity,male,False,False,False,False,False,False,False
+60.0,vidir_modern,mel,histo,ISIC_0024586,HAM_0003832,lower extremity,female,True,False,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0028298,HAM_0004140,upper extremity,male,False,False,False,False,False,False,False
+40.0,vienna_dias,nv,histo,ISIC_0026328,HAM_0002881,foot,male,False,False,False,True,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0030210,HAM_0004534,back,male,False,False,False,False,False,False,False
+80.0,vidir_modern,bkl,histo,ISIC_0032665,HAM_0002928,trunk,male,True,False,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0026146,HAM_0006888,back,male,False,True,False,False,False,False,False
+65.0,rosendahl,bcc,histo,ISIC_0031470,HAM_0001424,back,female,False,False,False,False,True,False,False
+70.0,rosendahl,mel,histo,ISIC_0030950,HAM_0006160,hand,female,False,False,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0031332,HAM_0001021,trunk,female,False,False,False,False,False,False,False
+35.0,rosendahl,nv,histo,ISIC_0028217,HAM_0000763,back,female,False,False,False,False,False,False,False
+60.0,rosendahl,bkl,histo,ISIC_0030241,HAM_0001294,face,female,True,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0025092,HAM_0001984,trunk,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0025991,HAM_0000595,lower extremity,female,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0024884,HAM_0001140,back,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0025829,HAM_0000409,abdomen,male,False,False,False,False,False,False,False
+45.0,vidir_modern,mel,histo,ISIC_0033700,HAM_0000179,back,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0029722,HAM_0003338,back,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0031207,HAM_0001090,lower extremity,male,False,True,False,False,False,False,False
+50.0,vidir_modern,nv,histo,ISIC_0026055,HAM_0006605,neck,female,False,False,False,False,False,False,False
+35.0,vidir_modern,nv,histo,ISIC_0033621,HAM_0001889,trunk,female,True,False,False,False,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0028412,HAM_0007310,back,male,True,False,False,False,True,False,False
+75.0,vidir_modern,bkl,consensus,ISIC_0031132,HAM_0006064,back,male,True,False,False,False,True,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0029799,HAM_0003995,trunk,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0032121,HAM_0006000,trunk,male,False,True,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0031237,HAM_0001978,lower extremity,female,False,False,False,False,False,False,False
+65.0,vidir_modern,bcc,histo,ISIC_0030010,HAM_0006548,neck,female,True,False,False,False,False,False,False
+80.0,rosendahl,nv,histo,ISIC_0025846,HAM_0001077,upper extremity,male,False,True,False,False,False,False,False
+25.0,vidir_molemax,nv,follow_up,ISIC_0026137,HAM_0006669,upper extremity,female,False,False,False,False,False,False,False
+35.0,vienna_dias,nv,histo,ISIC_0025782,HAM_0003276,trunk,female,False,False,False,True,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0027217,HAM_0003842,abdomen,female,False,False,False,False,False,False,False
+75.0,rosendahl,mel,histo,ISIC_0028666,HAM_0004622,upper extremity,male,False,False,False,False,True,False,False
+40.0,vidir_modern,nv,consensus,ISIC_0033208,HAM_0004345,unknown,female,False,True,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0025456,HAM_0003158,upper extremity,male,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0028025,HAM_0005462,abdomen,male,False,False,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0026448,HAM_0002659,trunk,female,False,False,False,False,False,False,False
+40.0,vidir_modern,nv,histo,ISIC_0031663,HAM_0002946,abdomen,female,True,False,False,False,True,False,False
+5.0,vidir_modern,nv,histo,ISIC_0033229,HAM_0005513,back,female,False,False,False,False,False,False,False
+80.0,vidir_modern,bkl,histo,ISIC_0033853,HAM_0004458,back,male,False,True,False,False,False,False,False
+45.0,rosendahl,nv,histo,ISIC_0028887,HAM_0006225,abdomen,female,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0031508,HAM_0003453,abdomen,female,False,False,False,False,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0026786,HAM_0003874,scalp,female,False,True,False,False,False,False,False
+20.0,vienna_dias,nv,histo,ISIC_0024682,HAM_0004864,upper extremity,female,False,True,False,True,False,False,False
+35.0,vienna_dias,nv,histo,ISIC_0031559,HAM_0006760,abdomen,female,False,False,False,False,False,False,False
+65.0,rosendahl,nv,histo,ISIC_0030790,HAM_0001730,back,female,False,False,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0033459,HAM_0003507,lower extremity,male,False,False,False,True,False,False,False
+35.0,vienna_dias,nv,histo,ISIC_0024975,HAM_0003276,trunk,female,False,False,False,True,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0027587,HAM_0003907,upper extremity,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0025558,HAM_0004933,lower extremity,female,False,False,False,False,False,False,False
+80.0,vidir_molemax,nv,follow_up,ISIC_0026000,HAM_0003071,abdomen,male,False,False,False,False,False,False,False
+75.0,vidir_modern,bkl,histo,ISIC_0030005,HAM_0003021,face,female,False,False,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0031992,HAM_0006431,lower extremity,male,False,False,False,False,False,False,False
+40.0,rosendahl,mel,histo,ISIC_0028082,HAM_0006037,chest,female,False,False,False,False,False,False,False
+60.0,vidir_modern,nv,histo,ISIC_0033737,HAM_0004303,upper extremity,female,False,False,False,False,False,False,False
+45.0,rosendahl,akiec,histo,ISIC_0031659,HAM_0005264,back,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0025251,HAM_0000956,neck,female,False,False,False,False,False,False,False
+25.0,vidir_modern,nv,consensus,ISIC_0027948,HAM_0000159,trunk,female,True,False,False,False,False,False,False
+40.0,vidir_modern,nv,consensus,ISIC_0033481,HAM_0004198,unknown,female,False,False,False,False,False,False,False
+65.0,rosendahl,bkl,histo,ISIC_0028970,HAM_0001435,hand,female,False,False,False,True,True,False,False
+30.0,vidir_modern,nv,histo,ISIC_0026730,HAM_0003277,upper extremity,male,False,False,False,False,False,False,False
+50.0,rosendahl,bkl,histo,ISIC_0024336,HAM_0006732,lower extremity,female,False,False,False,False,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0026852,HAM_0001001,back,female,False,False,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029637,HAM_0001807,trunk,male,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0027891,HAM_0003417,lower extremity,male,False,True,False,False,False,False,False
+30.0,vienna_dias,nv,histo,ISIC_0026049,HAM_0000773,abdomen,female,False,False,False,True,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0028733,HAM_0006639,lower extremity,male,False,True,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0026859,HAM_0006090,back,female,False,True,False,False,False,False,False
+60.0,vidir_modern,nv,consensus,ISIC_0033341,HAM_0006234,unknown,male,True,False,False,False,False,False,False
+85.0,rosendahl,bkl,histo,ISIC_0030258,HAM_0004945,back,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0026972,HAM_0001251,lower extremity,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0027676,HAM_0004115,lower extremity,female,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0027585,HAM_0000785,neck,female,False,False,False,True,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0029916,HAM_0001222,back,male,False,True,False,False,False,False,False
+5.0,vidir_modern,nv,consensus,ISIC_0024712,HAM_0002364,hand,female,True,False,False,False,True,False,False
+55.0,vidir_modern,nv,histo,ISIC_0027002,HAM_0000464,upper extremity,female,True,False,False,False,True,False,False
+,vidir_modern,nv,consensus,ISIC_0033064,HAM_0001209,unknown,unknown,False,True,False,False,False,False,False
+50.0,vidir_molemax,bkl,consensus,ISIC_0031024,HAM_0002677,abdomen,male,False,False,False,True,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0026840,HAM_0007253,trunk,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0029456,HAM_0006977,back,female,False,False,False,False,False,False,False
+65.0,rosendahl,akiec,histo,ISIC_0031874,HAM_0001922,face,female,False,False,True,False,False,False,False
+,vidir_modern,nv,consensus,ISIC_0031668,HAM_0000698,foot,male,False,False,False,False,False,False,False
+85.0,rosendahl,nv,histo,ISIC_0027036,HAM_0005925,upper extremity,female,False,False,False,False,False,False,False
+45.0,vienna_dias,nv,histo,ISIC_0026455,HAM_0001027,trunk,male,False,False,False,True,False,False,False
+75.0,vidir_modern,bkl,histo,ISIC_0032576,HAM_0000790,face,male,True,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030149,HAM_0003693,lower extremity,female,False,False,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0027013,HAM_0001854,trunk,female,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0028284,HAM_0006768,lower extremity,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0026836,HAM_0006871,face,female,False,True,False,False,False,False,False
+60.0,vidir_modern,nv,consensus,ISIC_0030229,HAM_0003579,back,male,False,True,False,False,False,False,False
+60.0,rosendahl,nv,histo,ISIC_0024657,HAM_0005537,back,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0025741,HAM_0005732,lower extremity,female,False,False,False,False,False,False,False
+80.0,vidir_modern,mel,histo,ISIC_0029163,HAM_0006692,scalp,male,True,False,False,False,True,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0025841,HAM_0001210,lower extremity,male,False,True,False,False,False,False,False
+65.0,vidir_modern,nv,histo,ISIC_0033168,HAM_0003447,abdomen,male,False,True,False,False,False,False,False
+70.0,rosendahl,akiec,histo,ISIC_0029932,HAM_0004722,upper extremity,female,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030947,HAM_0001850,lower extremity,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0032286,HAM_0006959,back,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0031995,HAM_0006649,lower extremity,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,df,consensus,ISIC_0025314,HAM_0000757,lower extremity,female,False,False,False,False,False,False,False
+30.0,vienna_dias,nv,histo,ISIC_0025840,HAM_0000618,lower extremity,female,False,True,False,True,False,False,False
+70.0,vidir_modern,mel,histo,ISIC_0033369,HAM_0007343,chest,male,True,True,False,False,False,False,False
+65.0,rosendahl,akiec,histo,ISIC_0026626,HAM_0005020,face,female,False,False,False,False,True,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0024974,HAM_0006093,trunk,male,False,False,False,False,False,False,False
+35.0,vidir_modern,nv,histo,ISIC_0033887,HAM_0004221,chest,female,True,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0031856,HAM_0007197,genital,female,False,False,False,False,False,False,False
+65.0,vidir_modern,nv,histo,ISIC_0034067,HAM_0004024,back,female,False,False,False,True,False,False,False
+50.0,vidir_modern,mel,histo,ISIC_0033424,HAM_0000079,face,female,False,False,False,False,False,False,False
+60.0,vidir_modern,bcc,histo,ISIC_0033054,HAM_0002664,face,male,True,False,False,False,False,False,False
+70.0,rosendahl,mel,histo,ISIC_0027702,HAM_0006004,back,female,False,False,False,False,True,False,False
+65.0,rosendahl,bcc,histo,ISIC_0030096,HAM_0003669,chest,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0031458,HAM_0007561,upper extremity,male,False,False,False,False,False,False,False
+45.0,rosendahl,bcc,histo,ISIC_0027038,HAM_0005985,chest,male,False,True,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0032390,HAM_0000155,abdomen,male,False,True,False,False,False,False,False
+60.0,vidir_modern,nv,consensus,ISIC_0028042,HAM_0003579,back,male,False,True,False,False,False,False,False
+25.0,rosendahl,nv,histo,ISIC_0032125,HAM_0003305,lower extremity,female,False,False,False,False,False,False,False
+70.0,vidir_modern,nv,histo,ISIC_0027738,HAM_0006389,back,male,True,False,False,False,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0025640,HAM_0000014,abdomen,male,False,False,False,False,True,False,False
+80.0,rosendahl,akiec,histo,ISIC_0025825,HAM_0002232,face,female,False,False,False,False,True,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0028603,HAM_0007559,trunk,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0027460,HAM_0000137,upper extremity,male,False,True,False,False,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0032537,HAM_0001928,chest,male,False,False,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0032964,HAM_0007451,lower extremity,male,False,True,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0030073,HAM_0005764,back,female,False,False,False,False,False,False,False
+60.0,vidir_modern,mel,histo,ISIC_0030824,HAM_0000330,chest,male,True,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029624,HAM_0006489,trunk,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0029494,HAM_0003486,abdomen,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0027818,HAM_0006930,abdomen,female,False,False,False,False,False,False,False
+75.0,vidir_modern,bkl,histo,ISIC_0032997,HAM_0003162,back,male,False,False,False,False,False,False,False
+25.0,vienna_dias,nv,histo,ISIC_0028538,HAM_0007276,unknown,female,False,False,False,True,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0024343,HAM_0000150,back,male,False,True,False,False,False,False,False
+75.0,vidir_modern,mel,histo,ISIC_0026892,HAM_0007560,unknown,male,True,True,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0028838,HAM_0004541,trunk,male,False,False,False,False,False,False,False
+,vidir_modern,nv,consensus,ISIC_0033332,HAM_0001118,unknown,unknown,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0026721,HAM_0002790,trunk,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029873,HAM_0005824,upper extremity,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0028140,HAM_0002814,lower extremity,male,False,True,False,False,False,False,False
+65.0,rosendahl,mel,histo,ISIC_0027328,HAM_0004651,face,male,False,False,False,False,False,False,False
+80.0,vidir_modern,vasc,histo,ISIC_0033591,HAM_0004791,lower extremity,female,False,False,False,False,False,False,False
+40.0,vidir_modern,bkl,histo,ISIC_0033776,HAM_0002894,abdomen,female,False,False,False,False,False,False,False
+75.0,rosendahl,nv,histo,ISIC_0027535,HAM_0006821,upper extremity,male,False,False,False,False,False,False,False
+20.0,rosendahl,nv,histo,ISIC_0025983,HAM_0004025,abdomen,female,False,False,False,True,False,False,False
+40.0,rosendahl,bcc,histo,ISIC_0032461,HAM_0001528,back,female,False,False,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0026483,HAM_0003118,abdomen,male,False,True,False,False,False,False,False
+50.0,vidir_modern,nv,histo,ISIC_0032813,HAM_0002582,abdomen,male,False,False,False,False,False,False,False
+10.0,vidir_modern,nv,histo,ISIC_0033314,HAM_0001437,foot,male,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0031688,HAM_0000116,lower extremity,female,False,False,False,False,False,False,False
+65.0,vienna_dias,mel,histo,ISIC_0025520,HAM_0005600,back,male,False,False,True,True,False,False,False
+75.0,rosendahl,bcc,histo,ISIC_0029053,HAM_0002812,back,female,False,False,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0027775,HAM_0001754,lower extremity,male,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0025521,HAM_0004969,lower extremity,female,False,False,False,False,False,False,False
+25.0,vidir_modern,nv,histo,ISIC_0033294,HAM_0002431,lower extremity,male,False,True,False,False,False,False,False
+60.0,rosendahl,bkl,histo,ISIC_0027064,HAM_0000398,lower extremity,female,False,False,False,False,False,False,False
+80.0,vidir_modern,nv,histo,ISIC_0025702,HAM_0006347,lower extremity,female,True,False,False,False,True,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0030331,HAM_0006163,abdomen,male,False,True,False,False,False,False,False
+80.0,vidir_modern,mel,histo,ISIC_0032592,HAM_0006923,foot,male,False,False,False,True,False,False,False
+25.0,vidir_modern,nv,histo,ISIC_0028045,HAM_0003892,lower extremity,female,True,False,False,False,True,False,False
+65.0,rosendahl,mel,histo,ISIC_0028860,HAM_0006779,back,male,False,True,False,False,False,False,False
+50.0,vidir_molemax,bkl,consensus,ISIC_0024337,HAM_0005136,lower extremity,female,False,False,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0024566,HAM_0005755,face,male,False,True,False,False,False,False,False
+30.0,vidir_molemax,nv,follow_up,ISIC_0028178,HAM_0006083,upper extremity,female,False,False,False,False,False,False,False
+40.0,vidir_modern,bkl,consensus,ISIC_0034040,HAM_0003808,unknown,male,True,True,False,False,False,False,False
+50.0,rosendahl,mel,histo,ISIC_0028017,HAM_0000910,back,female,False,False,False,True,False,False,False
+35.0,vidir_modern,nv,histo,ISIC_0028831,HAM_0006856,chest,male,False,True,False,False,True,False,False
+10.0,vidir_modern,nv,consensus,ISIC_0024757,HAM_0004370,unknown,male,False,False,False,False,True,False,False
+55.0,vienna_dias,nv,histo,ISIC_0026764,HAM_0002701,back,male,False,True,False,True,False,False,False
+60.0,rosendahl,mel,histo,ISIC_0030246,HAM_0003149,upper extremity,male,False,False,False,True,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0033520,HAM_0006462,neck,male,False,False,False,True,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0025263,HAM_0003705,trunk,male,False,True,False,False,False,False,False
+30.0,vidir_modern,nv,consensus,ISIC_0033842,HAM_0005353,back,male,True,True,False,False,False,False,False
+55.0,vienna_dias,mel,histo,ISIC_0031208,HAM_0001299,back,female,False,False,False,True,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0029228,HAM_0003492,lower extremity,male,False,True,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0031850,HAM_0003271,trunk,female,False,False,False,False,False,False,False
+70.0,rosendahl,nv,histo,ISIC_0024561,HAM_0000707,abdomen,female,False,False,False,True,True,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0027748,HAM_0004228,lower extremity,male,False,True,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0025763,HAM_0007508,chest,male,False,True,False,False,False,False,False
+15.0,vidir_modern,nv,consensus,ISIC_0031829,HAM_0006936,chest,female,True,False,False,False,True,False,False
+60.0,vidir_modern,nv,consensus,ISIC_0030358,HAM_0005960,neck,male,False,True,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0028798,HAM_0007365,lower extremity,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0026691,HAM_0001034,trunk,female,False,False,False,False,False,False,False
+40.0,vidir_modern,nv,histo,ISIC_0033972,HAM_0006158,back,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0025002,HAM_0006023,trunk,male,False,True,False,False,False,False,False
+80.0,vidir_molemax,bkl,consensus,ISIC_0028331,HAM_0002962,back,male,False,False,False,False,False,False,False
+25.0,rosendahl,nv,histo,ISIC_0031894,HAM_0006613,back,male,False,False,False,False,False,False,False
+55.0,vidir_modern,nv,histo,ISIC_0025809,HAM_0004663,upper extremity,male,True,False,False,False,False,False,False
+55.0,vidir_modern,nv,consensus,ISIC_0031105,HAM_0002566,chest,female,True,False,False,False,True,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0030713,HAM_0006866,upper extremity,female,False,False,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0034035,HAM_0002015,lower extremity,female,False,False,False,False,False,False,False
+60.0,rosendahl,bkl,histo,ISIC_0031459,HAM_0004494,neck,female,False,False,False,False,False,False,False
+35.0,vidir_modern,nv,histo,ISIC_0025610,HAM_0003308,face,male,False,False,False,False,True,False,False
+85.0,rosendahl,nv,histo,ISIC_0030937,HAM_0005173,back,male,False,True,False,True,True,False,False
+85.0,rosendahl,bcc,histo,ISIC_0030514,HAM_0006872,back,male,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0024993,HAM_0000147,trunk,female,False,False,False,False,False,False,False
+30.0,rosendahl,nv,histo,ISIC_0029277,HAM_0007385,scalp,male,False,True,False,False,False,False,False
+65.0,rosendahl,bcc,histo,ISIC_0025362,HAM_0002959,face,female,True,False,False,True,False,False,False
+20.0,rosendahl,nv,histo,ISIC_0030973,HAM_0004923,back,male,False,False,False,False,True,False,False
+35.0,vienna_dias,nv,histo,ISIC_0024361,HAM_0005605,chest,male,False,True,False,False,False,False,False
+50.0,vienna_dias,nv,histo,ISIC_0031447,HAM_0000509,lower extremity,female,False,False,False,True,False,False,False
+5.0,rosendahl,nv,histo,ISIC_0025169,HAM_0002025,scalp,male,False,True,False,False,False,False,False
+75.0,vidir_modern,bcc,histo,ISIC_0026643,HAM_0005469,lower extremity,male,False,False,False,False,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0029959,HAM_0007066,back,female,False,True,False,False,True,False,False
+85.0,rosendahl,nv,histo,ISIC_0029544,HAM_0007013,back,male,False,False,False,False,False,False,False
+70.0,rosendahl,bcc,histo,ISIC_0032246,HAM_0005509,upper extremity,female,False,True,False,False,False,False,False
+65.0,rosendahl,mel,histo,ISIC_0028764,HAM_0004746,back,female,False,False,False,True,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0027148,HAM_0005949,upper extremity,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0028492,HAM_0004323,foot,female,True,False,False,False,False,False,False
+75.0,rosendahl,bkl,histo,ISIC_0025374,HAM_0006031,scalp,female,False,False,False,True,True,False,False
+70.0,vidir_modern,akiec,histo,ISIC_0033456,HAM_0002615,scalp,male,False,False,False,True,False,False,False
+0.0,vidir_modern,bkl,consensus,ISIC_0029320,HAM_0006186,lower extremity,male,True,False,False,False,False,False,False
+65.0,rosendahl,nv,histo,ISIC_0027988,HAM_0007240,back,female,False,False,False,False,False,False,False
+50.0,rosendahl,bkl,histo,ISIC_0026607,HAM_0007529,chest,male,False,False,False,True,False,False,False
+80.0,vidir_molemax,bkl,consensus,ISIC_0030160,HAM_0002043,lower extremity,male,False,False,False,False,False,False,False
+70.0,vidir_modern,mel,histo,ISIC_0032958,HAM_0006824,lower extremity,male,True,False,False,False,False,False,False
+75.0,vidir_modern,mel,histo,ISIC_0034005,HAM_0006763,foot,male,True,False,False,False,False,False,False
+20.0,vidir_modern,nv,histo,ISIC_0024597,HAM_0003303,back,male,True,True,False,False,True,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0025920,HAM_0007194,abdomen,female,False,False,False,False,False,False,False
+15.0,vidir_modern,nv,histo,ISIC_0033966,HAM_0001673,lower extremity,female,False,False,False,False,False,False,False
+50.0,rosendahl,bkl,histo,ISIC_0024426,HAM_0001597,back,male,False,True,False,True,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0026582,HAM_0003747,trunk,male,False,False,False,False,False,False,False
+70.0,vidir_modern,bcc,histo,ISIC_0030712,HAM_0007248,lower extremity,male,False,False,False,False,False,False,False
+40.0,vidir_modern,nv,histo,ISIC_0034220,HAM_0002502,abdomen,male,True,True,False,False,False,False,False
+80.0,rosendahl,mel,histo,ISIC_0031670,HAM_0006130,upper extremity,female,False,False,False,False,True,False,False
+45.0,vidir_modern,nv,histo,ISIC_0031720,HAM_0003222,lower extremity,female,False,False,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0026385,HAM_0000577,lower extremity,female,False,True,False,False,False,False,False
+35.0,vidir_modern,nv,histo,ISIC_0033648,HAM_0005571,neck,male,False,True,False,False,False,False,False
+60.0,rosendahl,akiec,histo,ISIC_0027930,HAM_0004899,scalp,male,True,True,True,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0026903,HAM_0005394,trunk,female,False,False,False,False,False,False,False
+70.0,rosendahl,akiec,histo,ISIC_0029659,HAM_0000673,face,female,False,False,False,True,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0028446,HAM_0006498,lower extremity,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0031179,HAM_0001996,lower extremity,female,False,False,False,False,False,False,False
+70.0,vidir_modern,nv,histo,ISIC_0025735,HAM_0002349,upper extremity,male,True,True,False,False,False,False,False
+40.0,rosendahl,bkl,histo,ISIC_0025719,HAM_0000833,face,male,True,True,False,False,False,False,False
+75.0,rosendahl,bkl,histo,ISIC_0026923,HAM_0000198,lower extremity,male,False,False,False,False,False,False,False
+70.0,vidir_modern,bkl,consensus,ISIC_0025103,HAM_0001529,face,female,True,False,False,False,True,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0026616,HAM_0007105,abdomen,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0026971,HAM_0003407,trunk,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0025486,HAM_0006784,trunk,female,False,False,False,False,False,False,False
+55.0,vidir_modern,nv,consensus,ISIC_0028170,HAM_0003040,back,female,True,False,False,False,False,False,False
+65.0,vidir_modern,mel,histo,ISIC_0033578,HAM_0004571,face,male,True,False,False,True,False,False,False
+25.0,vidir_modern,mel,histo,ISIC_0033047,HAM_0002824,lower extremity,female,False,True,False,False,False,False,False
+55.0,rosendahl,mel,histo,ISIC_0026916,HAM_0000320,back,male,True,False,False,False,True,False,False
+55.0,vidir_modern,bkl,confocal,ISIC_0026530,HAM_0000835,face,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0028466,HAM_0006261,abdomen,female,False,False,False,False,False,False,False
+20.0,rosendahl,nv,histo,ISIC_0025587,HAM_0007510,lower extremity,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0027391,HAM_0000037,abdomen,female,False,False,False,False,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0032833,HAM_0005893,trunk,male,True,True,False,False,False,False,False
+,vidir_molemax,nv,histo,ISIC_0027040,HAM_0004924,trunk,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0025574,HAM_0005583,abdomen,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029788,HAM_0004822,lower extremity,female,False,False,False,False,False,False,False
+35.0,vidir_modern,bkl,histo,ISIC_0025510,HAM_0002092,lower extremity,female,True,True,False,False,False,False,False
+20.0,vidir_modern,nv,consensus,ISIC_0032837,HAM_0002425,back,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0025042,HAM_0004610,trunk,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0032259,HAM_0004333,trunk,male,False,False,False,False,False,False,False
+80.0,rosendahl,bcc,histo,ISIC_0031976,HAM_0006851,face,male,False,True,False,True,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0031685,HAM_0002054,abdomen,female,False,False,False,False,False,False,False
+40.0,vidir_modern,nv,histo,ISIC_0032605,HAM_0006334,back,female,False,False,False,False,False,False,False
+60.0,vidir_modern,nv,histo,ISIC_0033932,HAM_0004303,upper extremity,female,False,False,False,False,False,False,False
+60.0,rosendahl,bkl,histo,ISIC_0026219,HAM_0006399,back,female,True,False,False,False,True,False,False
+40.0,vidir_modern,df,consensus,ISIC_0031123,HAM_0003487,lower extremity,male,True,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0026914,HAM_0005038,back,male,False,False,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0028533,HAM_0001404,lower extremity,male,False,True,False,False,False,False,False
+80.0,rosendahl,akiec,histo,ISIC_0029362,HAM_0005413,face,female,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0026035,HAM_0001043,upper extremity,male,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0031184,HAM_0004290,upper extremity,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0025965,HAM_0005210,trunk,male,False,True,False,False,False,False,False
+45.0,vidir_modern,mel,histo,ISIC_0028219,HAM_0000233,upper extremity,male,False,False,False,False,False,False,False
+55.0,vienna_dias,mel,histo,ISIC_0024701,HAM_0000917,back,female,False,False,False,True,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0025408,HAM_0000469,abdomen,female,False,False,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0025657,HAM_0006730,back,female,True,False,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0024755,HAM_0006133,lower extremity,male,False,True,False,False,False,False,False
+60.0,vidir_modern,nv,histo,ISIC_0032529,HAM_0005942,foot,unknown,True,False,False,False,False,False,False
+50.0,vidir_modern,nv,histo,ISIC_0034207,HAM_0007475,foot,female,True,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0024493,HAM_0006689,lower extremity,male,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0025725,HAM_0000056,trunk,female,False,False,False,False,False,False,False
+85.0,vidir_modern,mel,histo,ISIC_0025674,HAM_0000531,face,male,False,False,False,True,False,False,False
+35.0,rosendahl,nv,histo,ISIC_0028983,HAM_0000674,back,female,True,False,False,False,True,False,False
+45.0,rosendahl,bkl,histo,ISIC_0026614,HAM_0001232,chest,male,False,False,False,False,True,False,False
+35.0,rosendahl,nv,histo,ISIC_0025506,HAM_0005393,lower extremity,female,False,True,False,False,True,False,False
+60.0,rosendahl,nv,histo,ISIC_0028698,HAM_0003033,lower extremity,female,False,False,False,True,False,False,False
+30.0,vidir_modern,nv,consensus,ISIC_0033040,HAM_0007478,back,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0029471,HAM_0000205,trunk,female,False,False,False,False,False,False,False
+35.0,vidir_modern,nv,consensus,ISIC_0029401,HAM_0001009,foot,male,False,False,False,False,False,False,False
+40.0,vidir_modern,nv,consensus,ISIC_0033173,HAM_0003813,unknown,male,True,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0024992,HAM_0004740,abdomen,male,False,False,False,False,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0030833,HAM_0000976,chest,male,False,False,False,False,False,False,False
+25.0,vidir_modern,vasc,histo,ISIC_0031648,HAM_0005989,back,female,False,False,False,False,False,False,False
+20.0,vidir_modern,nv,histo,ISIC_0030980,HAM_0003303,back,male,True,True,False,False,True,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0027686,HAM_0002673,lower extremity,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030120,HAM_0000729,trunk,male,False,True,False,False,False,False,False
+70.0,vidir_molemax,nv,follow_up,ISIC_0027830,HAM_0001516,lower extremity,male,False,False,False,False,False,False,False
+70.0,vidir_molemax,nv,follow_up,ISIC_0031193,HAM_0002281,lower extremity,male,False,False,False,False,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0026398,HAM_0007324,back,male,True,False,False,True,True,False,False
+5.0,vidir_modern,nv,histo,ISIC_0032953,HAM_0005116,lower extremity,female,True,True,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0027881,HAM_0004473,upper extremity,female,False,True,False,False,False,False,False
+70.0,rosendahl,akiec,histo,ISIC_0032404,HAM_0007038,face,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0027145,HAM_0001357,back,male,False,False,False,False,False,False,False
+25.0,vidir_modern,mel,histo,ISIC_0032723,HAM_0005992,back,female,True,True,False,False,False,False,False
+80.0,vidir_molemax,nv,follow_up,ISIC_0030380,HAM_0002405,upper extremity,male,False,False,False,False,False,False,False
+20.0,vidir_molemax,nv,follow_up,ISIC_0028273,HAM_0000242,neck,female,False,True,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0033296,HAM_0005539,lower extremity,female,False,False,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0024965,HAM_0000733,genital,male,False,True,False,False,False,False,False
+65.0,vidir_modern,mel,histo,ISIC_0032699,HAM_0001465,ear,male,False,False,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0033937,HAM_0006813,trunk,female,False,False,False,False,False,False,False
+65.0,rosendahl,bkl,histo,ISIC_0025222,HAM_0000973,face,female,True,False,False,True,False,False,False
+75.0,rosendahl,bcc,histo,ISIC_0031539,HAM_0005302,back,male,False,False,False,False,False,False,False
+75.0,vidir_modern,mel,histo,ISIC_0025835,HAM_0001456,lower extremity,male,True,False,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0033706,HAM_0003993,upper extremity,male,False,False,False,True,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0025671,HAM_0004783,foot,female,False,False,False,False,False,False,False
+40.0,vidir_modern,bkl,histo,ISIC_0031691,HAM_0007010,trunk,male,False,True,False,False,False,False,False
+55.0,vidir_modern,bkl,histo,ISIC_0034318,HAM_0000344,trunk,male,False,False,False,False,False,False,False
+75.0,rosendahl,nv,histo,ISIC_0026400,HAM_0007167,back,male,False,False,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0027493,HAM_0003478,back,female,False,True,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0026476,HAM_0000303,lower extremity,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0024542,HAM_0000224,upper extremity,male,False,True,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0030141,HAM_0001798,back,male,False,False,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0033308,HAM_0004706,abdomen,female,False,False,True,False,False,False,False
+75.0,rosendahl,bkl,histo,ISIC_0026844,HAM_0004114,back,male,False,False,False,False,True,False,False
+75.0,vidir_modern,df,histo,ISIC_0027008,HAM_0005276,back,male,True,False,False,False,True,False,False
+75.0,rosendahl,bkl,histo,ISIC_0025297,HAM_0007513,face,female,False,True,False,False,False,False,False
+80.0,rosendahl,mel,histo,ISIC_0025317,HAM_0004428,upper extremity,male,True,True,True,False,True,False,False
+50.0,rosendahl,mel,histo,ISIC_0026694,HAM_0002869,back,female,False,False,False,True,False,False,False
+55.0,rosendahl,nv,histo,ISIC_0028736,HAM_0003125,chest,male,False,True,False,False,False,False,False
+10.0,vidir_modern,nv,histo,ISIC_0027361,HAM_0001160,foot,female,True,False,False,False,True,False,False
+85.0,vidir_modern,bkl,histo,ISIC_0034168,HAM_0004975,chest,male,True,False,False,False,False,False,False
+60.0,vidir_modern,mel,histo,ISIC_0032844,HAM_0000388,back,male,True,True,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0033914,HAM_0003801,face,male,False,True,False,False,False,False,False
+65.0,rosendahl,bkl,histo,ISIC_0024726,HAM_0005125,back,male,False,True,False,False,False,False,False
+45.0,rosendahl,nv,histo,ISIC_0027475,HAM_0004656,abdomen,female,True,False,True,False,True,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0026357,HAM_0001718,abdomen,male,False,True,False,False,False,False,False
+75.0,vidir_molemax,nv,follow_up,ISIC_0031969,HAM_0004528,back,female,False,False,False,False,False,False,False
+85.0,vidir_modern,mel,histo,ISIC_0033324,HAM_0004304,upper extremity,male,True,False,False,True,False,False,False
+75.0,rosendahl,nv,histo,ISIC_0030260,HAM_0006821,upper extremity,male,False,False,False,False,False,False,False
+20.0,vidir_modern,nv,histo,ISIC_0027072,HAM_0004128,lower extremity,male,False,True,False,False,False,False,False
+70.0,rosendahl,bkl,histo,ISIC_0031831,HAM_0004448,face,male,False,True,False,True,False,False,False
+20.0,rosendahl,nv,histo,ISIC_0025123,HAM_0001126,back,female,False,False,False,False,True,False,False
+30.0,vidir_modern,nv,histo,ISIC_0024855,HAM_0003627,back,female,False,False,False,False,False,False,False
+50.0,vidir_modern,nv,histo,ISIC_0032680,HAM_0001358,back,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0027268,HAM_0002317,upper extremity,female,False,True,False,False,False,False,False
+70.0,vidir_modern,nv,histo,ISIC_0031518,HAM_0006389,back,male,False,False,False,False,False,False,False
+70.0,vidir_molemax,nv,follow_up,ISIC_0028279,HAM_0001843,trunk,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029717,HAM_0002802,abdomen,female,False,False,False,False,False,False,False
+65.0,rosendahl,mel,histo,ISIC_0024525,HAM_0005540,upper extremity,male,False,True,False,False,False,False,False
+85.0,rosendahl,bcc,histo,ISIC_0026154,HAM_0006658,neck,male,False,False,False,False,True,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0031990,HAM_0004736,lower extremity,male,False,True,False,False,False,False,False
+30.0,vidir_modern,nv,consensus,ISIC_0033176,HAM_0001490,back,male,False,True,False,False,False,False,False
+70.0,vidir_modern,mel,histo,ISIC_0032987,HAM_0001155,face,male,False,False,False,False,False,False,False
+70.0,vidir_molemax,bkl,consensus,ISIC_0031226,HAM_0002209,trunk,male,False,False,False,False,False,False,False
+65.0,rosendahl,bkl,histo,ISIC_0026018,HAM_0005883,back,male,True,False,False,False,True,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0032180,HAM_0004236,back,female,False,False,False,False,False,False,False
+5.0,vidir_modern,vasc,histo,ISIC_0029448,HAM_0002218,back,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0028262,HAM_0004959,lower extremity,male,False,False,False,False,False,False,False
+40.0,vienna_dias,mel,histo,ISIC_0026352,HAM_0001444,lower extremity,female,False,False,False,True,False,False,False
+70.0,vidir_modern,mel,histo,ISIC_0027659,HAM_0005642,back,male,True,False,False,False,True,False,False
+15.0,vidir_modern,nv,consensus,ISIC_0027729,HAM_0006936,chest,female,False,False,False,False,False,False,False
+75.0,vidir_modern,bkl,consensus,ISIC_0032111,HAM_0006064,back,male,False,False,False,False,False,False,False
+45.0,rosendahl,bkl,histo,ISIC_0028710,HAM_0004908,hand,female,False,False,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0028522,HAM_0004906,lower extremity,male,False,True,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0030725,HAM_0000300,back,female,False,False,False,False,False,False,False
+35.0,rosendahl,nv,histo,ISIC_0030140,HAM_0006512,back,female,True,True,False,False,False,False,False
+85.0,rosendahl,bkl,histo,ISIC_0030721,HAM_0006769,back,male,False,False,False,True,True,False,False
+80.0,rosendahl,bcc,histo,ISIC_0025530,HAM_0002313,foot,female,True,True,False,False,False,False,False
+75.0,rosendahl,bcc,histo,ISIC_0027788,HAM_0002812,back,female,False,False,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0032507,HAM_0004725,trunk,female,False,False,False,False,False,False,False
+85.0,rosendahl,bkl,histo,ISIC_0025716,HAM_0001200,face,male,False,False,False,True,False,False,False
+50.0,vidir_modern,nv,consensus,ISIC_0033589,HAM_0006925,chest,female,True,False,False,False,False,False,False
+70.0,rosendahl,bkl,histo,ISIC_0026606,HAM_0006123,back,female,False,False,False,False,False,False,False
+70.0,rosendahl,bcc,histo,ISIC_0031643,HAM_0003851,back,male,False,False,False,False,False,False,False
+50.0,rosendahl,bkl,histo,ISIC_0030203,HAM_0001896,back,male,True,False,False,True,True,False,False
+25.0,vidir_modern,nv,histo,ISIC_0032530,HAM_0003676,lower extremity,female,False,False,False,False,False,False,False
+80.0,vidir_molemax,bkl,consensus,ISIC_0029345,HAM_0003260,back,male,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0027926,HAM_0006360,abdomen,female,False,False,False,False,False,False,False
+55.0,vidir_molemax,vasc,consensus,ISIC_0025606,HAM_0005376,scalp,male,False,True,False,False,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0033287,HAM_0001928,chest,male,True,False,False,False,False,False,False
+50.0,vidir_modern,nv,consensus,ISIC_0030585,HAM_0005720,back,female,False,False,False,False,False,False,False
+30.0,rosendahl,nv,histo,ISIC_0024352,HAM_0004897,lower extremity,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030814,HAM_0005675,lower extremity,female,False,False,False,False,False,False,False
+85.0,rosendahl,bkl,histo,ISIC_0027320,HAM_0004506,neck,female,True,False,False,True,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0025636,HAM_0001579,trunk,male,False,False,False,False,False,False,False
+25.0,vidir_modern,nv,histo,ISIC_0028759,HAM_0006185,trunk,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0024543,HAM_0004749,lower extremity,male,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0025538,HAM_0000661,upper extremity,male,False,False,False,False,False,False,False
+85.0,vidir_modern,bkl,consensus,ISIC_0029778,HAM_0007381,face,female,False,True,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0024691,HAM_0001201,trunk,female,False,False,False,False,False,False,False
+55.0,vidir_modern,df,histo,ISIC_0028880,HAM_0004103,lower extremity,male,False,True,False,False,True,False,False
+30.0,vienna_dias,nv,histo,ISIC_0026370,HAM_0000272,back,male,False,True,False,True,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0026723,HAM_0001549,lower extremity,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030168,HAM_0000966,trunk,female,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0029707,HAM_0000774,lower extremity,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0026920,HAM_0001806,abdomen,female,False,False,False,False,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0029792,HAM_0005250,foot,female,True,False,True,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0025479,HAM_0005220,back,male,False,False,False,False,False,False,False
+75.0,vidir_modern,bcc,histo,ISIC_0024572,HAM_0005657,back,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0031736,HAM_0004993,back,male,False,False,False,False,False,False,False
+0.0,vidir_modern,nv,histo,ISIC_0030355,HAM_0002159,foot,male,False,False,False,False,False,False,False
+75.0,vidir_molemax,nv,follow_up,ISIC_0031213,HAM_0005225,back,male,False,True,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0032163,HAM_0001427,back,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0026755,HAM_0001931,upper extremity,female,False,True,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0032084,HAM_0003067,abdomen,male,False,True,False,False,False,False,False
+25.0,vidir_modern,nv,histo,ISIC_0028918,HAM_0001141,back,male,True,True,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0027691,HAM_0001482,trunk,female,False,False,False,False,False,False,False
+55.0,vidir_modern,bkl,histo,ISIC_0032306,HAM_0001853,face,male,True,False,False,False,True,False,False
+30.0,vidir_modern,nv,histo,ISIC_0033087,HAM_0000578,back,female,False,True,False,False,False,False,False
+60.0,rosendahl,nv,histo,ISIC_0028151,HAM_0000764,back,male,True,False,False,False,True,False,False
+30.0,rosendahl,nv,histo,ISIC_0030639,HAM_0000815,hand,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0024601,HAM_0001874,trunk,female,False,False,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0030534,HAM_0002647,back,female,False,False,False,False,False,False,False
+40.0,vidir_modern,bkl,histo,ISIC_0029291,HAM_0002521,upper extremity,male,True,False,False,False,True,False,False
+15.0,vidir_modern,nv,histo,ISIC_0028235,HAM_0002231,face,male,True,True,False,False,True,False,False
+60.0,vidir_modern,bkl,histo,ISIC_0033677,HAM_0005258,lower extremity,female,False,False,False,True,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0027440,HAM_0003025,trunk,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029887,HAM_0000638,trunk,male,False,False,False,False,False,False,False
+75.0,vidir_modern,mel,histo,ISIC_0027261,HAM_0005084,ear,male,True,True,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0024636,HAM_0001987,abdomen,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0030201,HAM_0005638,lower extremity,female,False,False,False,False,False,False,False
+70.0,vidir_modern,akiec,histo,ISIC_0033413,HAM_0002615,scalp,male,False,False,False,False,False,False,False
+35.0,vidir_modern,nv,histo,ISIC_0031555,HAM_0000837,abdomen,female,True,False,False,False,True,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0030373,HAM_0007362,back,male,False,True,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0026361,HAM_0004537,abdomen,male,False,False,False,False,False,False,False
+10.0,vienna_dias,nv,histo,ISIC_0028678,HAM_0000222,lower extremity,female,False,True,False,False,False,False,False
+45.0,rosendahl,nv,histo,ISIC_0031451,HAM_0006401,foot,female,True,False,False,False,True,False,False
+55.0,vidir_modern,bkl,confocal,ISIC_0026016,HAM_0003789,face,female,False,False,False,False,False,False,False
+45.0,rosendahl,nv,histo,ISIC_0031871,HAM_0006225,abdomen,female,False,False,False,False,True,False,False
+85.0,vidir_modern,bcc,histo,ISIC_0034015,HAM_0003216,face,female,True,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0028967,HAM_0001449,foot,female,True,False,False,False,False,False,False
+80.0,rosendahl,bkl,histo,ISIC_0027504,HAM_0004660,scalp,male,False,True,False,False,False,False,False
+20.0,vidir_modern,vasc,histo,ISIC_0031270,HAM_0006889,upper extremity,male,True,True,False,False,True,False,False
+75.0,rosendahl,bcc,histo,ISIC_0024949,HAM_0005669,upper extremity,male,False,False,False,False,False,False,False
+75.0,vidir_molemax,nv,follow_up,ISIC_0030001,HAM_0001658,abdomen,male,False,False,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0029430,HAM_0003327,upper extremity,male,True,True,False,False,True,False,False
+10.0,vidir_modern,nv,consensus,ISIC_0025168,HAM_0003035,upper extremity,female,True,True,False,False,True,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0030428,HAM_0002508,lower extremity,female,False,False,False,False,False,False,False
+75.0,vidir_molemax,bkl,consensus,ISIC_0028797,HAM_0001838,trunk,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0031962,HAM_0001092,lower extremity,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0025055,HAM_0006660,upper extremity,male,False,False,False,False,False,False,False
+35.0,vidir_molemax,mel,histo,ISIC_0024700,HAM_0001726,trunk,female,False,False,False,False,False,False,False
+80.0,vidir_molemax,nv,follow_up,ISIC_0028771,HAM_0005305,trunk,male,False,False,False,False,False,False,False
+80.0,vidir_molemax,nv,follow_up,ISIC_0030560,HAM_0007424,back,male,False,False,False,False,False,False,False
+75.0,vidir_modern,bkl,confocal,ISIC_0026276,HAM_0000710,face,female,True,False,False,False,True,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0025192,HAM_0004982,upper extremity,male,False,False,False,False,False,False,False
+35.0,vidir_modern,bkl,histo,ISIC_0025180,HAM_0003265,chest,female,False,True,True,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0028791,HAM_0006032,lower extremity,male,True,True,False,False,True,False,False
+70.0,vidir_molemax,nv,follow_up,ISIC_0028569,HAM_0005709,lower extremity,male,False,False,False,False,False,False,False
+30.0,vidir_molemax,nv,follow_up,ISIC_0025678,HAM_0006836,back,male,False,False,False,False,False,False,False
+,vidir_modern,nv,histo,ISIC_0033442,HAM_0002417,upper extremity,male,False,True,False,False,False,False,False
+60.0,rosendahl,akiec,histo,ISIC_0028370,HAM_0005668,face,male,False,False,False,False,True,False,False
+15.0,vidir_modern,nv,histo,ISIC_0033016,HAM_0005135,back,male,False,False,False,False,False,False,False
+25.0,vidir_modern,mel,histo,ISIC_0033051,HAM_0001506,lower extremity,female,True,False,False,False,False,False,False
+65.0,vidir_modern,nv,histo,ISIC_0034009,HAM_0002915,upper extremity,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0029283,HAM_0001873,trunk,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0026572,HAM_0002583,trunk,male,False,False,False,False,False,False,False
+80.0,vidir_molemax,nv,follow_up,ISIC_0030017,HAM_0002643,trunk,male,False,False,False,False,False,False,False
+80.0,vidir_modern,bcc,histo,ISIC_0032727,HAM_0004848,face,female,False,False,False,False,False,False,False
+80.0,rosendahl,bcc,histo,ISIC_0027915,HAM_0000719,abdomen,male,True,False,False,False,True,False,False
+30.0,vidir_molemax,nv,follow_up,ISIC_0030619,HAM_0003379,lower extremity,female,False,False,False,False,False,False,False
+70.0,vidir_modern,bkl,histo,ISIC_0026153,HAM_0002957,back,male,True,True,False,False,True,False,False
+35.0,rosendahl,bkl,histo,ISIC_0029108,HAM_0003179,face,female,False,False,False,False,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0031586,HAM_0001671,lower extremity,female,False,False,False,False,False,False,False
+80.0,rosendahl,df,histo,ISIC_0030757,HAM_0003290,upper extremity,male,False,False,False,False,True,False,False
+35.0,rosendahl,nv,histo,ISIC_0030816,HAM_0002205,back,male,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0027723,HAM_0003264,upper extremity,male,False,False,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0031949,HAM_0007412,trunk,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0029944,HAM_0006119,upper extremity,female,False,False,False,False,False,False,False
+45.0,vidir_modern,mel,histo,ISIC_0033055,HAM_0001344,back,male,False,True,False,False,False,False,False
+30.0,rosendahl,nv,histo,ISIC_0027224,HAM_0002668,back,male,False,False,False,False,False,False,False
+30.0,vidir_molemax,nv,follow_up,ISIC_0032465,HAM_0004557,trunk,female,False,False,False,False,False,False,False
+40.0,vidir_modern,nv,histo,ISIC_0033964,HAM_0001046,abdomen,male,False,True,False,False,False,False,False
+75.0,vidir_modern,bcc,histo,ISIC_0033575,HAM_0000823,face,female,True,False,False,False,False,False,False
+40.0,rosendahl,bcc,histo,ISIC_0025975,HAM_0005835,back,male,False,False,False,False,False,False,False
+60.0,rosendahl,nv,histo,ISIC_0024827,HAM_0001125,chest,male,False,False,False,False,True,False,False
+60.0,rosendahl,mel,histo,ISIC_0029642,HAM_0006964,lower extremity,female,True,False,False,False,True,False,False
+35.0,vidir_molemax,df,consensus,ISIC_0029177,HAM_0005918,lower extremity,female,False,False,False,False,False,False,False
+25.0,vidir_modern,nv,histo,ISIC_0033249,HAM_0003676,lower extremity,female,True,False,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0026521,HAM_0004939,abdomen,male,False,False,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0024430,HAM_0007269,lower extremity,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030389,HAM_0005645,abdomen,male,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0031935,HAM_0001270,trunk,male,False,True,False,False,False,False,False
+40.0,vidir_modern,bcc,histo,ISIC_0031943,HAM_0000393,abdomen,female,True,True,False,False,True,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0029042,HAM_0004040,trunk,male,False,False,False,False,False,False,False
+75.0,vidir_molemax,bkl,consensus,ISIC_0026135,HAM_0006772,trunk,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0024357,HAM_0005676,trunk,female,False,False,False,False,False,False,False
+50.0,vienna_dias,mel,histo,ISIC_0030970,HAM_0003497,lower extremity,female,False,True,False,True,False,False,False
+55.0,vidir_molemax,vasc,consensus,ISIC_0032057,HAM_0004862,abdomen,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029408,HAM_0002122,abdomen,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0029305,HAM_0002459,trunk,male,False,False,False,False,False,False,False
+75.0,vidir_modern,bkl,histo,ISIC_0025140,HAM_0000907,ear,male,False,False,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0026980,HAM_0005876,foot,male,False,False,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0033561,HAM_0004708,trunk,male,True,False,False,False,False,False,False
+50.0,rosendahl,bkl,histo,ISIC_0027219,HAM_0000202,face,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0024585,HAM_0004230,back,female,False,False,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0031097,HAM_0004003,upper extremity,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0027405,HAM_0004628,foot,male,False,False,False,False,False,False,False
+50.0,rosendahl,akiec,histo,ISIC_0026522,HAM_0005505,upper extremity,male,False,True,False,True,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029503,HAM_0006894,back,male,False,True,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0027901,HAM_0004320,abdomen,female,False,False,False,False,False,False,False
+20.0,vienna_dias,nv,histo,ISIC_0025078,HAM_0001512,trunk,female,False,False,False,False,False,False,False
+35.0,vidir_modern,df,consensus,ISIC_0033810,HAM_0007396,lower extremity,female,True,True,False,False,False,False,False
+80.0,vidir_modern,bkl,consensus,ISIC_0033987,HAM_0006148,back,female,True,False,False,False,False,False,False
+35.0,vidir_modern,nv,histo,ISIC_0033342,HAM_0005820,back,female,True,False,False,False,False,False,False
+60.0,vidir_modern,bkl,histo,ISIC_0034103,HAM_0002327,neck,female,True,False,False,True,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0031884,HAM_0004753,back,female,False,False,False,False,False,False,False
+70.0,rosendahl,nv,histo,ISIC_0029733,HAM_0005750,upper extremity,male,False,False,False,False,False,False,False
+30.0,vidir_modern,nv,consensus,ISIC_0030038,HAM_0001956,back,female,True,False,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029084,HAM_0003552,abdomen,male,False,True,False,False,False,False,False
+70.0,vidir_modern,nv,histo,ISIC_0025257,HAM_0000639,upper extremity,female,False,False,False,False,False,False,False
+70.0,rosendahl,bkl,histo,ISIC_0031519,HAM_0000149,lower extremity,female,True,False,False,False,True,False,False
+85.0,rosendahl,akiec,histo,ISIC_0026992,HAM_0003146,upper extremity,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0027252,HAM_0004674,lower extremity,male,False,False,False,False,False,False,False
+50.0,vidir_modern,nv,consensus,ISIC_0032880,HAM_0001930,back,female,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0032255,HAM_0005145,lower extremity,male,False,True,False,False,False,False,False
+45.0,vidir_modern,mel,histo,ISIC_0034006,HAM_0000709,lower extremity,female,False,False,False,False,False,False,False
+70.0,vidir_modern,nv,histo,ISIC_0025008,HAM_0002349,upper extremity,male,False,False,False,True,False,False,False
+60.0,rosendahl,bkl,histo,ISIC_0026644,HAM_0004259,neck,female,False,False,False,True,False,False,False
+60.0,vidir_modern,mel,histo,ISIC_0028916,HAM_0006208,face,female,True,False,False,False,False,False,False
+60.0,rosendahl,akiec,histo,ISIC_0031335,HAM_0000501,face,male,True,False,False,False,True,False,False
+50.0,rosendahl,nv,histo,ISIC_0030819,HAM_0006302,ear,female,True,False,True,False,True,False,False
+50.0,rosendahl,nv,histo,ISIC_0025942,HAM_0000302,upper extremity,female,False,False,False,True,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0024847,HAM_0003570,upper extremity,female,False,False,False,False,False,False,False
+80.0,rosendahl,bkl,histo,ISIC_0028404,HAM_0000881,lower extremity,male,False,True,False,False,False,False,False
+40.0,vidir_modern,nv,consensus,ISIC_0033622,HAM_0003818,unknown,male,True,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0026447,HAM_0003573,lower extremity,male,False,True,False,False,False,False,False
+75.0,vidir_modern,bkl,confocal,ISIC_0031218,HAM_0007315,face,male,False,False,False,False,True,False,False
+75.0,vidir_modern,bkl,histo,ISIC_0032675,HAM_0004091,back,male,False,False,False,True,False,False,False
+60.0,rosendahl,bkl,histo,ISIC_0030976,HAM_0001722,back,male,False,False,False,True,False,False,False
+40.0,vidir_modern,nv,histo,ISIC_0033076,HAM_0004716,upper extremity,female,True,False,False,False,False,False,False
+85.0,vidir_modern,bcc,histo,ISIC_0028980,HAM_0003741,face,male,False,False,False,False,False,False,False
+85.0,rosendahl,bcc,histo,ISIC_0029082,HAM_0005665,back,female,False,False,False,False,False,False,False
+75.0,vidir_modern,mel,histo,ISIC_0032875,HAM_0003625,abdomen,male,False,True,False,False,False,False,False
+65.0,rosendahl,mel,histo,ISIC_0027101,HAM_0001835,back,male,False,False,False,False,False,False,False
+70.0,rosendahl,bcc,histo,ISIC_0029680,HAM_0001237,lower extremity,male,False,False,False,False,True,False,False
+15.0,vidir_modern,vasc,histo,ISIC_0025599,HAM_0004765,face,male,False,True,False,False,True,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0030558,HAM_0007192,upper extremity,female,False,False,False,False,False,False,False
+50.0,vidir_modern,df,consensus,ISIC_0031372,HAM_0007418,lower extremity,male,True,True,False,False,False,False,False
+70.0,rosendahl,nv,histo,ISIC_0029589,HAM_0004069,neck,male,False,True,False,False,False,False,False
+70.0,vidir_modern,mel,histo,ISIC_0027260,HAM_0002391,upper extremity,male,True,False,False,False,True,False,False
+55.0,rosendahl,bkl,histo,ISIC_0027354,HAM_0007359,chest,female,True,False,False,False,True,False,False
+40.0,rosendahl,nv,histo,ISIC_0032145,HAM_0003760,back,male,False,True,False,True,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0029424,HAM_0000297,abdomen,female,False,False,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0025156,HAM_0002106,foot,male,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0032326,HAM_0000280,trunk,male,False,True,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0030640,HAM_0007311,face,male,True,True,False,False,True,False,False
+35.0,vidir_modern,nv,histo,ISIC_0027049,HAM_0006826,back,female,True,False,False,False,False,False,False
+45.0,vidir_modern,mel,histo,ISIC_0026996,HAM_0004121,lower extremity,female,False,False,False,False,False,False,False
+75.0,vidir_modern,bkl,histo,ISIC_0027960,HAM_0003569,unknown,male,False,False,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0031083,HAM_0002439,abdomen,female,False,False,False,False,False,False,False
+65.0,vidir_modern,bcc,histo,ISIC_0033203,HAM_0000879,back,female,False,False,False,False,False,False,False
+70.0,rosendahl,akiec,histo,ISIC_0026132,HAM_0004992,chest,male,False,False,False,False,False,False,False
+55.0,vienna_dias,nv,histo,ISIC_0024695,HAM_0006529,trunk,female,False,False,False,True,False,False,False
+,vidir_modern,nv,consensus,ISIC_0034266,HAM_0004120,unknown,unknown,False,False,False,False,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0034205,HAM_0007583,upper extremity,female,True,False,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0032761,HAM_0001740,chest,male,False,True,False,False,False,False,False
+15.0,vienna_dias,nv,histo,ISIC_0026424,HAM_0001919,trunk,male,False,False,False,True,False,False,False
+70.0,vidir_modern,vasc,consensus,ISIC_0031346,HAM_0001566,face,female,True,True,False,False,False,False,False
+85.0,rosendahl,nv,histo,ISIC_0026615,HAM_0002532,scalp,male,True,True,False,False,True,False,False
+25.0,vienna_dias,nv,histo,ISIC_0024777,HAM_0001895,chest,male,False,True,False,False,False,False,False
+40.0,vidir_modern,bkl,histo,ISIC_0033601,HAM_0003845,trunk,female,True,False,False,False,False,False,False
+55.0,vidir_modern,nv,histo,ISIC_0033033,HAM_0001405,lower extremity,female,False,False,False,False,False,False,False
+60.0,rosendahl,bcc,histo,ISIC_0029602,HAM_0003991,back,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0026537,HAM_0003278,trunk,female,False,False,False,False,False,False,False
+65.0,rosendahl,nv,histo,ISIC_0031710,HAM_0005730,chest,male,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0031235,HAM_0007055,upper extremity,female,False,False,False,False,False,False,False
+65.0,rosendahl,bkl,histo,ISIC_0028856,HAM_0004501,back,male,False,False,False,True,False,False,False
+60.0,vidir_modern,mel,histo,ISIC_0033995,HAM_0005673,back,male,False,True,False,True,False,False,False
+65.0,rosendahl,bkl,histo,ISIC_0025485,HAM_0005260,scalp,male,True,True,False,False,True,False,False
+35.0,rosendahl,df,histo,ISIC_0032138,HAM_0005492,lower extremity,female,False,False,False,False,False,False,False
+85.0,vidir_modern,mel,histo,ISIC_0031958,HAM_0006433,upper extremity,female,True,False,False,False,False,False,False
+60.0,rosendahl,bkl,histo,ISIC_0029519,HAM_0005546,back,male,False,True,False,False,True,False,False
+25.0,rosendahl,nv,histo,ISIC_0030914,HAM_0001406,chest,female,False,False,False,False,True,False,False
+60.0,rosendahl,nv,histo,ISIC_0027949,HAM_0002087,back,female,False,False,False,False,False,False,False
+35.0,vidir_modern,vasc,histo,ISIC_0032692,HAM_0000940,lower extremity,female,False,False,False,False,False,False,False
+75.0,rosendahl,akiec,histo,ISIC_0027896,HAM_0003455,hand,male,False,True,False,False,False,False,False
+60.0,rosendahl,akiec,histo,ISIC_0027668,HAM_0001386,scalp,male,False,True,False,False,False,False,False
+65.0,vidir_molemax,nv,histo,ISIC_0032355,HAM_0005888,trunk,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0027556,HAM_0005916,trunk,female,False,False,False,False,False,False,False
+40.0,vidir_modern,nv,consensus,ISIC_0033997,HAM_0006353,lower extremity,female,True,True,False,False,False,False,False
+30.0,vidir_modern,mel,histo,ISIC_0025489,HAM_0002770,back,male,False,False,False,False,False,False,False
+35.0,vidir_modern,bcc,histo,ISIC_0029201,HAM_0000009,back,male,True,True,False,False,False,False,False
+60.0,rosendahl,nv,histo,ISIC_0025346,HAM_0000000,back,male,True,False,False,False,True,False,False
+55.0,vidir_modern,vasc,histo,ISIC_0032557,HAM_0000494,lower extremity,male,True,True,False,False,False,False,False
+70.0,vidir_molemax,nv,follow_up,ISIC_0024749,HAM_0005204,trunk,female,False,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0031964,HAM_0007181,upper extremity,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0027318,HAM_0000927,abdomen,female,False,False,False,False,False,False,False
+70.0,rosendahl,akiec,histo,ISIC_0024539,HAM_0002551,face,male,False,False,False,True,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0033560,HAM_0003421,upper extremity,female,True,False,False,False,False,False,False
+60.0,rosendahl,nv,histo,ISIC_0030615,HAM_0001236,back,male,False,True,False,False,False,False,False
+40.0,vienna_dias,nv,histo,ISIC_0025988,HAM_0001242,lower extremity,female,False,False,False,True,False,False,False
+20.0,vidir_modern,nv,histo,ISIC_0025687,HAM_0002097,abdomen,female,True,False,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0031264,HAM_0006227,abdomen,female,False,False,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0030163,HAM_0006140,foot,female,False,False,False,False,False,False,False
+75.0,vidir_modern,mel,histo,ISIC_0028696,HAM_0003330,abdomen,male,False,True,False,False,False,False,False
+65.0,rosendahl,akiec,histo,ISIC_0027550,HAM_0004297,upper extremity,female,False,False,False,False,False,False,False
+55.0,rosendahl,bcc,histo,ISIC_0024795,HAM_0004420,back,male,False,True,False,True,False,False,False
+85.0,rosendahl,akiec,histo,ISIC_0026872,HAM_0006746,lower extremity,male,False,True,False,True,True,False,False
+45.0,rosendahl,bkl,histo,ISIC_0026245,HAM_0001938,lower extremity,female,False,False,False,False,False,False,False
+30.0,rosendahl,nv,histo,ISIC_0025043,HAM_0007385,scalp,male,False,True,False,True,True,False,False
+60.0,vidir_modern,mel,histo,ISIC_0028415,HAM_0000796,trunk,male,False,False,False,False,False,False,False
+35.0,vidir_modern,bcc,histo,ISIC_0029779,HAM_0000009,back,male,True,True,False,False,True,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0032239,HAM_0004858,trunk,female,False,False,False,False,False,False,False
+25.0,rosendahl,nv,histo,ISIC_0031306,HAM_0000063,back,female,False,True,False,False,False,False,False
+35.0,rosendahl,bkl,histo,ISIC_0025064,HAM_0006541,lower extremity,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0031273,HAM_0006687,lower extremity,male,False,False,False,False,False,False,False
+70.0,rosendahl,mel,histo,ISIC_0027204,HAM_0001532,neck,male,True,False,False,True,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0024521,HAM_0007330,trunk,female,False,False,False,False,False,False,False
+30.0,vidir_modern,nv,consensus,ISIC_0026037,HAM_0006756,chest,female,False,False,False,False,False,False,False
+65.0,rosendahl,bkl,histo,ISIC_0024547,HAM_0005790,back,male,False,True,False,False,False,False,False
+35.0,rosendahl,nv,histo,ISIC_0026231,HAM_0006581,back,male,False,True,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0024988,HAM_0000573,foot,female,False,False,False,False,False,False,False
+70.0,vidir_modern,bkl,confocal,ISIC_0027435,HAM_0007500,face,female,True,True,False,False,False,False,False
+75.0,vidir_modern,bkl,confocal,ISIC_0028294,HAM_0002042,face,female,True,False,False,False,True,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0029906,HAM_0001644,lower extremity,female,False,False,False,False,False,False,False
+45.0,rosendahl,nv,histo,ISIC_0024596,HAM_0004802,back,female,False,False,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0030456,HAM_0000194,lower extremity,female,False,False,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0027934,HAM_0001398,back,female,False,False,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0026830,HAM_0006461,lower extremity,female,False,True,False,False,False,False,False
+85.0,vidir_modern,bcc,histo,ISIC_0034223,HAM_0003216,face,female,False,False,False,True,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0024611,HAM_0000385,back,female,False,False,False,False,False,False,False
+75.0,rosendahl,bcc,histo,ISIC_0032429,HAM_0005973,lower extremity,male,False,True,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0025242,HAM_0002747,lower extremity,female,False,False,False,False,False,False,False
+55.0,vidir_modern,nv,histo,ISIC_0034069,HAM_0003441,chest,male,True,False,False,False,False,False,False
+45.0,vidir_modern,nv,histo,ISIC_0033511,HAM_0006147,abdomen,male,False,True,False,False,False,False,False
+45.0,rosendahl,nv,histo,ISIC_0031681,HAM_0006069,abdomen,female,False,False,False,False,False,False,False
+55.0,vidir_modern,nv,consensus,ISIC_0027418,HAM_0001393,back,female,False,False,False,False,False,False,False
+75.0,vidir_modern,mel,histo,ISIC_0033428,HAM_0003083,chest,male,True,False,False,False,False,False,False
+30.0,vidir_molemax,nv,follow_up,ISIC_0027750,HAM_0000461,abdomen,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,bkl,consensus,ISIC_0032249,HAM_0005834,lower extremity,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0032169,HAM_0005044,lower extremity,female,False,False,False,False,False,False,False
+40.0,vidir_modern,nv,histo,ISIC_0033210,HAM_0006857,back,female,True,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0026256,HAM_0003960,back,male,False,True,False,False,False,False,False
+5.0,vidir_modern,nv,consensus,ISIC_0029668,HAM_0001902,lower extremity,female,True,False,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0028669,HAM_0004989,trunk,male,False,False,False,False,False,False,False
+35.0,vidir_modern,nv,histo,ISIC_0033976,HAM_0003181,back,male,False,False,False,False,False,False,False
+70.0,vidir_molemax,nv,follow_up,ISIC_0028459,HAM_0006109,lower extremity,female,False,False,False,False,False,False,False
+70.0,rosendahl,nv,histo,ISIC_0028559,HAM_0000913,back,male,True,False,False,True,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0031731,HAM_0005355,lower extremity,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0025407,HAM_0002226,genital,female,False,True,False,False,False,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0031172,HAM_0002165,lower extremity,male,False,True,False,False,False,False,False
+35.0,vidir_molemax,nv,follow_up,ISIC_0027288,HAM_0001581,upper extremity,female,False,False,False,False,False,False,False
+75.0,vidir_molemax,nv,follow_up,ISIC_0032297,HAM_0004730,trunk,male,False,False,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030850,HAM_0005944,abdomen,male,False,True,False,False,False,False,False
+40.0,rosendahl,nv,histo,ISIC_0026340,HAM_0000794,lower extremity,female,False,True,False,True,True,False,False
+30.0,vidir_modern,nv,histo,ISIC_0034224,HAM_0003852,back,female,True,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0025801,HAM_0004132,abdomen,female,False,False,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0030942,HAM_0000194,lower extremity,female,True,False,False,False,False,False,False
+80.0,rosendahl,nv,histo,ISIC_0029183,HAM_0007491,abdomen,male,True,False,False,False,False,False,False
+80.0,vidir_molemax,nv,follow_up,ISIC_0027489,HAM_0006565,trunk,male,False,False,False,False,False,False,False
+80.0,vidir_modern,bkl,histo,ISIC_0032877,HAM_0003770,face,male,True,True,False,False,False,False,False
+25.0,vienna_dias,nv,histo,ISIC_0032021,HAM_0000335,upper extremity,female,False,False,False,True,False,False,False
+40.0,vidir_modern,nv,histo,ISIC_0032659,HAM_0006700,back,female,True,False,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0029250,HAM_0003720,trunk,male,False,False,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0033990,HAM_0006379,neck,female,False,True,False,False,False,False,False
+40.0,vidir_modern,nv,consensus,ISIC_0032712,HAM_0006353,lower extremity,female,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0029984,HAM_0004523,lower extremity,female,False,True,False,False,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0033968,HAM_0002939,lower extremity,male,False,True,False,False,False,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030193,HAM_0000671,foot,female,False,False,False,False,False,False,False
+45.0,vidir_molemax,vasc,consensus,ISIC_0025596,HAM_0005938,abdomen,female,False,False,False,False,False,False,False
+40.0,vidir_molemax,nv,follow_up,ISIC_0026381,HAM_0002274,trunk,female,False,False,False,False,False,False,False
+60.0,rosendahl,bkl,histo,ISIC_0029115,HAM_0000846,lower extremity,female,True,False,False,False,True,False,False
+55.0,vidir_molemax,nv,follow_up,ISIC_0030751,HAM_0002813,upper extremity,female,False,False,False,False,False,False,False
+50.0,rosendahl,nv,histo,ISIC_0025597,HAM_0000284,lower extremity,female,False,False,False,False,False,False,False
+70.0,vidir_modern,vasc,consensus,ISIC_0033844,HAM_0003480,lower extremity,female,True,False,False,False,False,False,False
+50.0,vidir_molemax,vasc,consensus,ISIC_0027790,HAM_0004943,face,female,False,True,False,False,False,False,False
+75.0,vidir_molemax,nv,follow_up,ISIC_0027383,HAM_0004037,lower extremity,male,False,True,False,False,False,False,False
+55.0,vidir_modern,bcc,histo,ISIC_0028858,HAM_0001078,upper extremity,male,False,True,False,False,False,False,False
+65.0,rosendahl,bkl,histo,ISIC_0029764,HAM_0004696,back,male,False,False,False,False,False,False,False
+50.0,vidir_modern,nv,histo,ISIC_0033067,HAM_0001935,chest,male,False,True,False,False,False,False,False
+50.0,vidir_molemax,nv,follow_up,ISIC_0030781,HAM_0000592,back,female,False,False,False,False,False,False,False
+30.0,vidir_modern,nv,histo,ISIC_0033360,HAM_0001883,back,female,False,False,False,False,False,False,False
+50.0,vienna_dias,nv,histo,ISIC_0031204,HAM_0002628,lower extremity,male,False,False,False,True,False,False,False
+70.0,vidir_modern,bcc,histo,ISIC_0031442,HAM_0005982,lower extremity,male,False,True,False,False,False,False,False
+65.0,rosendahl,nv,histo,ISIC_0032243,HAM_0004701,lower extremity,male,False,True,False,False,True,False,False
+50.0,rosendahl,bkl,histo,ISIC_0030396,HAM_0004570,chest,female,True,False,False,False,True,False,False
+60.0,vidir_modern,nv,consensus,ISIC_0033290,HAM_0006233,unknown,male,False,False,False,False,False,False,False
+80.0,vidir_molemax,nv,follow_up,ISIC_0026253,HAM_0005170,trunk,male,False,True,False,False,False,False,False
+45.0,vidir_modern,mel,histo,ISIC_0025394,HAM_0003376,trunk,male,True,True,False,False,False,False,False
+70.0,vidir_molemax,nv,follow_up,ISIC_0026750,HAM_0000906,trunk,male,False,True,False,False,False,False,False
+65.0,vidir_modern,bkl,histo,ISIC_0029682,HAM_0004029,upper extremity,male,False,False,False,False,False,False,False
+60.0,vienna_dias,nv,histo,ISIC_0025096,HAM_0000182,neck,male,False,False,False,False,False,False,False
+65.0,vidir_modern,bkl,consensus,ISIC_0027279,HAM_0006009,face,male,False,False,False,False,False,False,False
+75.0,vidir_modern,mel,histo,ISIC_0029343,HAM_0003330,abdomen,male,True,True,False,False,True,False,False
+45.0,vidir_molemax,nv,follow_up,ISIC_0030153,HAM_0005836,neck,female,False,False,False,False,False,False,False
+65.0,vidir_molemax,nv,follow_up,ISIC_0028917,HAM_0003349,lower extremity,female,False,False,False,False,False,False,False
+60.0,vidir_molemax,nv,follow_up,ISIC_0027726,HAM_0003342,upper extremity,male,False,False,False,False,False,False,False
+55.0,vidir_modern,mel,histo,ISIC_0026086,HAM_0005403,upper extremity,male,True,False,False,False,False,False,False
+45,vidir_modern,bkl,confocal,ISIC_0026803,HAM_0007355,face,female,true,false,false,false,true,false,false
