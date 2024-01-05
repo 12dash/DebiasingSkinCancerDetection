@@ -26,6 +26,18 @@ python3 app.py
 ```
 This will open up on the browser http://127.0.0.1:5000/
 
+### Samples 
+I have plotted some samples from the each of the metadata in the jupyter notebook [Samples Annotated.ipynb](SamplesAnnotated.ipynb)   
+There are 6 categories that we annotated : 
+* Dark Corner
+* Hair
+* Gel Border
+* Bubble
+* Ruler
+* Ink
+
+<img src='docs/imgs/samples.png' width = "75%">  
+
 ## Analysis <a name="Analysis"></a>
 
 ### ToDo
