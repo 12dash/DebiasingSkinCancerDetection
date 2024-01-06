@@ -46,5 +46,6 @@ There are 6 categories that we annotated :
 - [ ] Train a simple model to demonstrate how bias can lead to poor performance through the test dataset
 
 ## References <a name="References"></a>
+* [HAMS1000 Paper](https://www.nature.com/articles/sdata2018161)
+* [Previous Metadata Annotation Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Bissoto_Debiasing_Skin_Lesion_Datasets_and_Models_Not_So_Fast_CVPRW_2020_paper.pdf)
 * [Github Repo](https://github.com/alceubissoto/debiasing-skin)
-* [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Bissoto_Debiasing_Skin_Lesion_Datasets_and_Models_Not_So_Fast_CVPRW_2020_paper.pdf)
