@@ -27,7 +27,7 @@ python3 app.py
 This will open up on the browser http://127.0.0.1:5000/
 
 ### Samples 
-I have plotted some samples from the each of the metadata in the jupyter notebook [Samples Annotated.ipynb](SamplesAnnotated.ipynb)   
+I have plotted some samples from the each of the metadata in the jupyter notebook [Analysis.ipynb](Analysis.ipynb)   
 There are 6 categories that we annotated : 
 * Dark Corner
 * Hair
@@ -46,6 +46,6 @@ There are 6 categories that we annotated :
 - [ ] Train a simple model to demonstrate how bias can lead to poor performance through the test dataset
 
 ## References <a name="References"></a>
-* [HAMS1000 Paper](https://www.nature.com/articles/sdata2018161)
+* [HAM1000 Paper](https://www.nature.com/articles/sdata2018161)
 * [Previous Metadata Annotation Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Bissoto_Debiasing_Skin_Lesion_Datasets_and_Models_Not_So_Fast_CVPRW_2020_paper.pdf)
 * [Github Repo](https://github.com/alceubissoto/debiasing-skin)
