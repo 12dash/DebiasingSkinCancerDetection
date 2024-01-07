@@ -8,9 +8,9 @@
     * [Samples](#Samples)
 * [References](#References)
 
-## Annotation  <a name="Annotation"></a>
+## Annotation  <a id="Annotation"></a>
 
-### Data  <a name="Data"></a>
+### Data  <a id="Data"></a>
 
 You can download the link for zipped combine dataset using [Drive Link](https://drive.google.com/file/d/11hP_2PjwkzgUbaOyXHn7EEWDURJZPqpv/view?usp=sharing)
 
@@ -18,7 +18,7 @@ The data folder should be containing the HAM10000_metadata.csv and the two folde
 
 Combine the imgs into one folder and called imgs under data.  
 
-### Annotation Webpage <a name="AnnotationWebpage"></a>
+### Annotation Webpage <a id="AnnotationWebpage"></a>
 I created a webpage for easier annotation using flask.
 
 To start the flask app 
@@ -27,9 +27,9 @@ python3 app.py
 ```
 This will open up on the browser http://127.0.0.1:5000/
 
-## Analysis <a name="Analysis"></a>
+## Analysis <a id="Analysis"></a>
 
-### Samples <a name="Samples"></a>
+### Samples <a id="Samples"></a>
 I have plotted some samples from the each of the metadata in the jupyter notebook [Analysis.ipynb](Analysis.ipynb)   
 There are 6 categories that we annotated : 
 * Dark Corner
@@ -46,7 +46,7 @@ There are 6 categories that we annotated :
 - [ ] Creating biased dataset between the class and the categorical feature
 - [ ] Train a simple model to demonstrate how bias can lead to poor performance through the test dataset
 
-## References <a name="References"></a>
+## References <a id="References"></a>
 * [HAM1000 Paper](https://www.nature.com/articles/sdata2018161)
 * [Previous Metadata Annotation Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Bissoto_Debiasing_Skin_Lesion_Datasets_and_Models_Not_So_Fast_CVPRW_2020_paper.pdf)
 * [Github Repo](https://github.com/alceubissoto/debiasing-skin)
