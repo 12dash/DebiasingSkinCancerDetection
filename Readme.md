@@ -5,6 +5,7 @@
     * [Data](#Data)
     * [Annotation Webpage](#AnnotationWebpage)
 * [Analysis](#Analysis)
+    * [Samples](#Samples)
 * [References](#References)
 
 ## Annotation  <a name="Annotation"></a>
@@ -26,7 +27,9 @@ python3 app.py
 ```
 This will open up on the browser http://127.0.0.1:5000/
 
-### Samples 
+## Analysis <a name="Analysis"></a>
+
+### Samples <a name="Samples"></a>
 I have plotted some samples from the each of the metadata in the jupyter notebook [Analysis.ipynb](Analysis.ipynb)   
 There are 6 categories that we annotated : 
 * Dark Corner
@@ -37,8 +40,6 @@ There are 6 categories that we annotated :
 * Ink
 
 <img src='docs/imgs/samples.png' width = "75%">  
-
-## Analysis <a name="Analysis"></a>
 
 ### ToDo
 - [ ] Correlation between metadata and class (categorical correlation)
