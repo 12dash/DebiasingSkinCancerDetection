@@ -41,6 +41,13 @@ There are 6 categories that we annotated :
 
 <img src='docs/imgs/samples.png' width = "75%">  
 
+### Creating biased dataset 
+The biased dataset is created by taking a particular category of the metadata such as Dark Corner and a particular class such as 'nv' to form a binary classification task.  
+The data i.e. the folder storing the csv file containing the biased data is stored in the `processed data` which contains another directory denoting the artificial correlation category `dark_corner`. Three csv files are stored : 
+* train_biased.csv : Biased data set which has a correlation with the metadata category 
+* train_unbiased.csv : Un-biased data set which has the same number of data points as the previous one
+* test.csv : Test data to measure accuracy of the trained model. 
+
 ### ToDo
 - [ ] Correlation between metadata and class (categorical correlation)
 - [ ] Creating biased dataset between the class and the categorical feature
